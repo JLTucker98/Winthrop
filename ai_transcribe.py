@@ -1,5 +1,5 @@
 #Josh Tucker, Copyright 2024
-#This software is provided under the MIT License
+#This software is provided under the Apache 2.0 License
 
 import keyboard
 import time
